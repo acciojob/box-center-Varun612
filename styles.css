@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 span {
 	color: purple;
+	font-weight: bold;
 	font-size: 25px;
 }
 div {
