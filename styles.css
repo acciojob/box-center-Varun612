@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+span {
+	color: purple;
+	font-size: 25px;
+}
+div {
+	border: 2px solid black;
+	background-color: lightblue;
+	position: absolute;
+	width:200px;
+	height:200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	left:50%;
+	top:50%
+	transform: translate(-50%, -50%);
+}
